@@ -41,7 +41,7 @@
 
 <br>
 
-## ❤ Views and Followers
+<h3 align="left">❤ Views and Followers</h3>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=harryboi17">
 </a>
